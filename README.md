@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with velocityx documentation
 - 💬 Ask me about Flutter or any Tech related issues
 - 📫 How to reach me: momtazrasel8@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend most of the time for playing games 
 -->
