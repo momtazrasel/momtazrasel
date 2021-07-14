@@ -31,4 +31,6 @@
  ![Momtaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=momtazrasel&theme=merko&show_icons=true)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momtazrasel&theme=tokyonight)
+ 
+ [![Momtaz's github stats](https://github-readme-stats.vercel.app/api?username=momtazrasel)](https://github.com/anuraghazra/github-readme-stats)
 
