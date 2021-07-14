@@ -9,5 +9,6 @@
 - 💬 Ask me about Flutter or any Tech related issues
 - 📫 How to reach me: momtazrasel8@gmail.com
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: I spend most of the time for playing games 
- src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
+- ⚡ Fun fact: I spend most of the time for playing games
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
