@@ -32,4 +32,6 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momtazrasel&theme=tokyonight&show_icons=true)
  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=momtazrasel)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
