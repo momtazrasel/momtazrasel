@@ -10,5 +10,7 @@
 - 📫 How to reach me: momtazrasel8@gmail.com
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend most of the time for playing games
-- ![Momtaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=momtazrasel&theme=dark&show_icons=true)
+
+
+ ![Momtaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=momtazrasel&theme=merko&show_icons=true)
 
