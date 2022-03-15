@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on QUPS as a SQA Engineer
+- 🌱 I’m currently learning SQA
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with velocityx documentation
-- 💬 Ask me about Flutter or any Tech related issues
+- 💬 Ask me about SQA related question or any Tech related issues
 - 📫 How to reach me: momtazrasel8@gmail.com
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend most of the time for playing games
