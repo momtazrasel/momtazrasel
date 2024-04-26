@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on SPOL as a SQA Engineer
+- 🔭 I’m currently working on Apsis as a SQA Engineer
 - 🌱 I’m currently learning SQA
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with velocityx documentation
